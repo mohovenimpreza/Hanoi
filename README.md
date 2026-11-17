@@ -6,7 +6,7 @@ The game interface (prompts and messages) is in French.
 
 ![The game solving 3 disks](screenshots/hanoi-demo.gif)
 
-*Demo: 3 disks solved in 7 moves (a scripted run of the game, recorded with a small helper script that types the moves).*
+*Demo: 3 disks solved in 7 moves.*
 
 ## What it does
 - Draws the three towers and up to 20 coloured disks on a Turtle canvas.
